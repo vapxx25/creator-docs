@@ -1,11 +1,10 @@
----
+to my lover---
 title: Core Curriculum
 description: //
 next: /tutorials/core/building/create-a-project
 hideInPageNavigation: true
 hideBreadcrumbs: true
 ---
-
 <>
 <Grid
     alignItems="stretch"
